@@ -1,0 +1,27 @@
+{
+  "name": "encrypt-decrypt-ui",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jundialwan/encrypt-decrypt-ui.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jundialwan/encrypt-decrypt-ui/issues"
+  },
+  "homepage": "https://github.com/jundialwan/encrypt-decrypt-ui#readme",
+  "dependencies": {
+    "consolidate": "^0.15.1",
+    "express": "^4.16.4",
+    "multer": "^1.4.1",
+    "pug": "^2.0.3",
+    "shelljs": "^0.8.3",
+    "swig": "^1.4.2"
+  }
+}
